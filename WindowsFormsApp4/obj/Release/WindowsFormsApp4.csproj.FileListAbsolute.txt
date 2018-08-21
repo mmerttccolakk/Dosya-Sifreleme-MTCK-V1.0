@@ -1,0 +1,9 @@
+C:\Users\Mert\Desktop\Cekirdek\visual\WindowsFormsApp4\WindowsFormsApp4\bin\Release\WindowsFormsApp4.exe.config
+C:\Users\Mert\Desktop\Cekirdek\visual\WindowsFormsApp4\WindowsFormsApp4\bin\Release\WindowsFormsApp4.exe
+C:\Users\Mert\Desktop\Cekirdek\visual\WindowsFormsApp4\WindowsFormsApp4\bin\Release\WindowsFormsApp4.pdb
+C:\Users\Mert\Desktop\Cekirdek\visual\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp3.Form1.resources
+C:\Users\Mert\Desktop\Cekirdek\visual\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Mert\Desktop\Cekirdek\visual\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\Cekirdek\visual\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\Cekirdek\visual\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.exe
+C:\Users\Mert\Desktop\Cekirdek\visual\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.pdb
